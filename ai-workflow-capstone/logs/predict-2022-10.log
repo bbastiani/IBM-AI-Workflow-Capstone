@@ -1,0 +1,2 @@
+unique_id,timestamp,country,y_pred,y_proba,query,model_version,runtime
+39120f3e-78ba-4e99-88fb-bde747bff7e7,1666374621.7012014,all,[183079.3703],None,2018-01-05,0.1,000:00:15
